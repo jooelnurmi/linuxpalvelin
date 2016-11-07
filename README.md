@@ -1,0 +1,2 @@
+# linuxpalvelin
+palvelinten hallinta kurssi
